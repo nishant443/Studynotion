@@ -12,7 +12,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![AWS](https://img.shields.io/badge/AWS-Deployed-orange?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 
-**🌐 Live Site: [https://d2iggsqshmb5f9.cloudfront.net](https://d2iggsqshmb5f9.cloudfront.net)**
+**🌐 Live Site: [https://d2fyrpdebnxixq.cloudfront.net/](https://d2fyrpdebnxixq.cloudfront.net/)**
 
 </div>
 
