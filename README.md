@@ -48,10 +48,6 @@ The platform provides a seamless and interactive learning experience, making edu
 
 ---
 
-## 🌐 Live Demo
-
-> **🔗 [https://d2iggsqshmb5f9.cloudfront.net](https://d2iggsqshmb5f9.cloudfront.net)**
-
 The application is deployed on AWS using a fully serverless architecture:
 - **Frontend** hosted on AWS S3 + CloudFront CDN
 - **Backend** running on AWS Lambda + API Gateway
